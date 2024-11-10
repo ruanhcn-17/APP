@@ -21,6 +21,7 @@ dependencies:
    sdk: flutter
 
  http: ^1.2.2 # Certifique-se de que a versão do http esteja correta conforme discutido anteriormente
+ weather: ^3.1.1
 
 
 dev_dependencies:
