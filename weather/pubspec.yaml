@@ -1,0 +1,35 @@
+name: your_project_name
+
+description: A new Flutter project.
+
+
+publish_to: 'none' # Remova isso se for publicar no pub.dev
+
+
+version: 1.0.0+1
+
+
+environment:
+
+ sdk: ">=3.3.0 <4.0.0" # Adicionando a restrição mínima do SDK
+
+
+dependencies:
+
+ flutter:
+
+   sdk: flutter
+
+ http: ^1.2.2 # Certifique-se de que a versão do http esteja correta conforme discutido anteriormente
+
+
+dev_dependencies:
+
+ flutter_test:
+
+   sdk: flutter
+
+
+flutter:
+
+ uses-material-design: true
